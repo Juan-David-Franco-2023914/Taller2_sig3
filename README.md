@@ -1,2 +1,3 @@
 # Taller2_sig3
 Taller 2 sig 3, ecossitema y recurso hidrico en montebello
+En el siguiente visualizador, se aborda la temática de los ecosistemas y los recursos hídricos presentes en Montebello. Se incluyen zonas identificadas según su tipo de ecosistema, así como áreas susceptibles de conservación y otros elementos impactantes, como minas, acueductos y cámaras de monitoreo. Todas las capas de información están alojadas en una base de datos web utilizando servicios de AWS. Estas capas están conectadas a un GeoServer en una máquina virtual dentro de la infraestructura de AWS. Cada capa cuenta con metadatos correspondientes para facilitar la comprensión y gestión de los datos.
